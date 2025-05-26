@@ -1,9 +1,9 @@
 # spark_streaming
-# reading spark streaming from sockets, conversion of batch code to streaming code
-Tutorial on spark streaming
+# reading spark streaming from sockets, conversion of batch code to streaming code<br>
+Tutorial on spark streaming<br>
 
-Main Concepts : Spark streaming, docker, socket, batch, stage, ncat, 
-First a batch version (not committed here) and finally a streaming version of this code.
+Main Concepts : Spark streaming, docker, socket, batch, stage, ncat, <br>
+First a batch version (not committed here) and finally a streaming version of this code.<br>
 
 
 Docker container name = ed-pyspark-jupyter-lab
