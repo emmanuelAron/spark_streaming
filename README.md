@@ -1,6 +1,6 @@
 # spark_streaming
 # reading spark streaming from sockets, conversion of batch code to streaming code<br>
-Tutorial on spark streaming<br>
+Following a tutorial on spark streaming<br>
 
 Main Concepts : Spark streaming, docker, socket, batch, stage, ncat, <br>
 First a batch version (not committed here) and finally a streaming version of this code.<br>
